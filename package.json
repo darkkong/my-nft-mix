@@ -1,0 +1,15 @@
+{
+  "name": "MyNFTMix",
+  "version": "0.1.0",
+  "description": "Simple and advanced NFT making test",
+  "author": "Peter Kim",
+  "devDependencies": {
+    "prettier": "^2.3.0",
+    "prettier-plugin-solidity": "^1.0.0-beta.11"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1"
+  }
+}
